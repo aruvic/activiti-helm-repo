@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   sample-runtime-bundle:
   - apiVersion: v1
-    created: "2022-06-23T10:12:51.9276428+02:00"
+    created: "2022-06-23T12:19:38.0607103+02:00"
     description: A Helm chart for Kubernetes
     digest: beae41485f59e6ee0b92b6d626c0fbaaca08fd8d8c1b39e22deb33dba3a76eff
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
-    - https://github.com/aruvic/activiti-helm-repo/sample-runtime-bundle-0.0.1.tgz
+    - https://aruvic.github.io/activiti-helm-repo/sample-runtime-bundle-0.0.1.tgz
     version: 0.0.1
-generated: "2022-06-23T10:12:51.9276428+02:00"
+generated: "2022-06-23T12:19:38.0607103+02:00"
